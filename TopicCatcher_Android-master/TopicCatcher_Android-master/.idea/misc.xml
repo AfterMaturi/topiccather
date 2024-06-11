@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherWorkspace-master/app/src/main/res/layout/activity_main.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherWorkspace-master/app/src/main/res/layout/fragment_home.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherWorkspace-master/app/src/main/res/layout/fragment_join_room.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherWorkspace-master/app/src/main/res/layout/fragment_make_room.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherWorkspace-master/app/src/main/res/layout/fragment_meeting_room.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherWorkspace-master/app/src/main/res/layout/fragment_room.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherWorkspace-master/app/src/main/res/layout/fragment_word_cloud.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherworkspace2-master/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherworkspace2-master/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherworkspace2-master/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Desktop/TopicCatcherworkspace2-master/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Topic-Catcher/TopicCatcher_Android/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Topic-Catcher/TopicCatcher_Android/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Topic-Catcher/TopicCatcher_Android/app/src/main/res/layout/fragment_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Topic-Catcher/TopicCatcher_Android/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/Topic-Catcher/TopicCatcher_Android/app/src/main/res/layout/fragment_meeting_room.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2545" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2545" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/kenti_signal_bar.xml" value="0.2545" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/kenti_signal_bar_default.xml" value="0.2545" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/app_bar_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/content_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/fragment_meeting_room.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/nav_header_main.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.192" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.192" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/ic_outline_co_present_24.xml" value="0.192" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/ic_outline_person_24.xml" value="0.192" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/ic_round_home_24.xml" value="0.192" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/drawable/side_nav_bar.xml" value="0.192" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/app_bar_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/content_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/fragment_home.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/fragment_word_cloud.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/layout/room_view.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/2021067/TopicCatcher_Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.192" />
+        <entry key="..\:/Users/tai09/AndroidStudioProjects/TopicCatcher_Android/app/src/main/res/layout/fragment_meeting_room.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/tai09/AndroidStudioProjects/TopicCatcher_Android/app/src/main/res/layout/fragment_word_cloud.xml" value="0.245018115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
